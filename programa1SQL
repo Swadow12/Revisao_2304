@@ -1,2 +1,2 @@
 select*from aluno
-
+include tb_aluno ('aluno)
